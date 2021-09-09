@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+.top-wrapper{
+    background-color: green;
+    width:100%;
+    height: 90px;
+}
+.middle-wrapper{
+    background-color: lightsalmon;
+    width:100%;
+    height:500px;
+}
+.bottom-wrapper{
+    background-color: orangered;
+    width:100%;
+    height: 90px;
+}
